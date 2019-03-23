@@ -1,0 +1,11 @@
+THIS IS WHATSUP CODE:
+
+Author: Arulprasath
+
+1. Profile page code
+
+2. Chat screen code
+
+3. Last seen code
+
+4. Attachments (Image, Audio, video) code
