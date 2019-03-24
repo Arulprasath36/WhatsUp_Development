@@ -16,6 +16,4 @@ Author: Arulprasath
 
 7. Adding the video call feature
 
-8. Attachment of PDF and document files.
-
 
