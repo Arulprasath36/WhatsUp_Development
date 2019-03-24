@@ -16,4 +16,4 @@ Author: Arulprasath
 
 7. Adding the video call feature
 
-8. Adding status feature so that people can run trains on their phone.
+
