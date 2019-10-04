@@ -2,6 +2,8 @@ THIS IS WHATSUP CODE:
 
 Author: Arulprasath
 
+Welcome message with video and audion
+
 1. Profile page code
 
 2. Chat screen code
