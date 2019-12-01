@@ -22,14 +22,14 @@ Author: Arulprasath
 
 10. Adding new feature
 
-12. Connecting people
+11. Connecting people
 
-13. Block the spam users.
+12. Block the spam users.
 
-14. Create new feature to stop others to add user into the group without permission.
+13. Create new feature to stop others to add user into the group without permission.
 
-15.Adding group video call feature
+14.Adding group video call feature
 
-16.Adding new feature in status Hiding
+15.Adding new feature in status Hiding
 
-17.Adding web application feature
+16.Adding web application feature
