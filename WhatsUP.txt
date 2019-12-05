@@ -32,4 +32,6 @@ Author: Arulprasath
 
 14.Adding new feature in status Hiding
 
+15.Adding Payment option.
+
 
