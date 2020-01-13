@@ -31,5 +31,6 @@ Author: Arulprasath
 13.Adding group video call feature
 
 14.Adding new feature in status Hiding
+15.Pin the messages from certain users/group.
 
 
