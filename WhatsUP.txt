@@ -17,19 +17,3 @@ Author: Arulprasath
 7. Adding the video call feature
 
 8. Adding status so that user can play train games.
-
-9. Adding options to create groups upto 200 users.
-
-10. Adding new feature
-11. Connecting people
-
-
-11. Block the spam users.
-
-12. Create new feature to stop others to add user into the group without permission.
-
-13.Adding group video call feature
-
-14.Adding new feature in status Hiding
-
-
