@@ -32,4 +32,4 @@ Author: Arulprasath
 
 14.Adding new feature in status Hiding
 
-
+15.Adding a new feature of connect with Instagram
