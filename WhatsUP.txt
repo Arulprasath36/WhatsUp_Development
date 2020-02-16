@@ -16,7 +16,9 @@ Author: Arulprasath
 
 7. Adding the video call feature
 
-8. Adding status so that user can play train games.
+8. Adding status so that user can play train and bus games.
+
+8.1 Adding status so that user can play sudoku.
 
 9. Adding options to create groups upto 200 users.
 
