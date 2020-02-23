@@ -32,4 +32,7 @@ Author: Arulprasath
 
 14.Adding new feature in status Hiding
 
+15. Adding new feature of boat rooster 
+
+16. Adding the status so that user can play football games.
 
