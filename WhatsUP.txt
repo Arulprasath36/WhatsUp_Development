@@ -24,12 +24,14 @@ Author: Arulprasath
 11. Connecting people
 
 
-11. Block the spam users.
+12. Block the spam users.
 
-12. Create new feature to stop others to add user into the group without permission.
+13. Create new feature to stop others to add user into the group without permission.
 
-13.Adding group video call feature
+14.Adding group video call feature
 
-14.Adding new feature in status Hiding
+15.Adding new feature in status Hiding
+
+16.Adding the Webservices by scaning QR code for purpose of usage in the laptops.
 
 
