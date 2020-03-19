@@ -31,5 +31,5 @@ Author: Arulprasath
 13.Adding group video call feature
 
 14.Adding new feature in status Hiding
-
+15.Automtically delete the Old Messages based on Account holder setting (Weekly , monthly, Yearly etc..)
 
