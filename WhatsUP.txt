@@ -22,3 +22,4 @@ Author: Arulprasath
 
 10. Adding new feature
 
+11. Block users in status
