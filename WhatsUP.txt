@@ -32,3 +32,5 @@ Author: Arulprasath
 14.Adding new feature in status Hiding
 
 15. Adding private status
+
+16.Mute Status
