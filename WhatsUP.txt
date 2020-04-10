@@ -33,4 +33,4 @@ Author: Arulprasath
 
 15. Adding private status
 
-16.Mute Status
+16.Mute Status has bee updated
