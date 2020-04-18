@@ -31,5 +31,5 @@ Author: Arulprasath
 13.Adding group video call feature
 
 14.Adding new feature in status Hiding
-
+15.Clearing call logs feature is added
 
