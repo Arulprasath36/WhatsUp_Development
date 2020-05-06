@@ -33,3 +33,6 @@ Author: Arulprasath
 14.Adding new feature in status Hiding
 
 
+15.Reducing the status time to 15 Sec
+
+
