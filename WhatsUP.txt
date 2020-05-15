@@ -32,4 +32,12 @@ Author: Arulprasath
 
 14.Adding new feature in status Hiding
 
+15.Adding a feature for gif image DP upto 0.5sec
+
+16.Enabling Dark theme feature
+
+17.Enabling user can change the chat background from their gallery
+
+18.Adding new feature to take creative selfies and uploading in status
+
 
