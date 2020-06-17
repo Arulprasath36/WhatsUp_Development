@@ -26,6 +26,8 @@ Author: Arulprasath
 
 11. Block the spam users.
 
+12. Reducing the whatsapp status time to 15 secs from 30 secs .
+
 12. Last seen disable
 
 12. Create new feature to stop others to add user into the group without permission.
