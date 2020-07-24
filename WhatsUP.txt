@@ -38,6 +38,8 @@ Author: Arulprasath
 
 18. Thank you so much sir.. your explanations and video are amazing
 
-19. Block users in status
+19. Block users in status.
+
+20. Reduced the status timing to 15 sec.
 
 
