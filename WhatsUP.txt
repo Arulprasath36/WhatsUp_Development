@@ -42,4 +42,6 @@ Author: Arulprasath
 
 20. Reduced the status timing to 15 sec.
 
+21. Increased the status timing to 30 sec
+
 
