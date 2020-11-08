@@ -34,8 +34,25 @@ Author: Arulprasath
 
 14.Adding new feature in status Hiding
 
+
+
+
+
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
 Thank you so much sir.. your explanations and video are amazing
 
 11. Block users in status
+
+
+1. Adding Payment method in whats app
+
+2. Enabling auto-delete meassage features after 7days
+
+3. Inroducing Report option with a screenshot.
+
+4. Furture Enchancement of Introducing Shopping from Whats app with more benefits. (Disadvantage : Adds will be introduced in Whatapp)
+
+5. Enhancement in blocking a person . When you block a person in Whats app you will get a notification to block him in all social media . When you select 'yes' it will block the persons id in all social media.
+
+6. Muting a Person or a Group permanently
