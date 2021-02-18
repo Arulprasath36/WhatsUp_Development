@@ -23,6 +23,8 @@ Author: Arulprasath
 10. Adding new feature
 11. Connecting people
 
+12. learning the topics in chat window
+
 
 11. Block the spam users.
 
