@@ -38,4 +38,6 @@ Author: Arulprasath
 
 Thank you so much sir.. your explanations and video are amazing
 
-11. Block users in status
+16. Block users in status
+
+17.Adding QR code Feature. If you share it with someone.they can scan it with their WhatsUp camera to easily add you as a contact
