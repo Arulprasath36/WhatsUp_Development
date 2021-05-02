@@ -39,3 +39,6 @@ Author: Arulprasath
 Thank you so much sir.. your explanations and video are amazing
 
 11. Block users in status
+
+1.a. Special Feature-- Add Payment Options in  Whatsup
+1.b. Special Feature-- Add Conference_Meet Option in Whatsup to conduct Meetings using Phone Number in Online      
