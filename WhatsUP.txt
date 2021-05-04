@@ -36,6 +36,8 @@ Author: Arulprasath
 
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
-Thank you so much sir.. your explanations and video are amazing
+16. Thank you so much sir.. your explanations and video are amazing
 
-11. Block users in status
+17. Block users in status
+
+18. WhatsApp Web feature so that we can open whatsapp in web browser
