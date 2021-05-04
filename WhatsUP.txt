@@ -21,23 +21,23 @@ Author: Arulprasath
 9. Adding options to create groups upto 200 users.
 
 10. Adding new feature
+
 11. Connecting people
 
+12. Block the spam users.
 
-11. Block the spam users.
+13. Last seen disable
 
-12. Last seen disable
+14. Create new feature to stop others to add user into the group without permission.
 
-12. Create new feature to stop others to add user into the group without permission.
+15.Adding group video call feature
 
-13.Adding group video call feature
+16.Adding new feature in status Hiding
 
-14.Adding new feature in status Hiding
+17. Adding Dark Mode Feature so that user can do the late night chats easily  
 
-15. Adding Dark Mode Feature so that user can do the late night chats easily  
+18. Thank you so much sir.. your explanations and video are amazing
 
-16. Thank you so much sir.. your explanations and video are amazing
+19. Block users in status
 
-17. Block users in status
-
-18. WhatsApp Web feature so that we can open whatsapp in web browser
+20. WhatsApp Web feature so that we can open whatsapp in web browser
