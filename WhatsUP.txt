@@ -41,3 +41,5 @@ Thank you so much sir.. your explanations and video are amazing
 18. Block users in status.
 
 19.Display color changes.
+
+20.Added Photo editor feature
