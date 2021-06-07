@@ -21,8 +21,8 @@ Author: Arulprasath
 9. Adding options to create groups upto 200 users.
 
 10. Adding new feature
-11. Connecting people
 
+11. Connecting people
 
 11. Block the spam users.
 
@@ -38,4 +38,8 @@ Author: Arulprasath
 
 Thank you so much sir.. your explanations and video are amazing
 
-11. Block users in status
+16. Block users in status
+
+17. Block the users who sending proposals
+
+18. Create the option to sending picture stickers for fun chat
