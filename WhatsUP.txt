@@ -35,7 +35,7 @@ Author: Arulprasath
 14.Adding new feature in status Hiding
 
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
-
+SHOT
 16.Thanks Arul sir
 
 Thank you so much sir.. your explanations and video are amazing
@@ -44,4 +44,5 @@ Thank you so much sir.. your explanations and video are amazing
 
 16 Adding Payment options [09-6-2021]
 
-17 Adding the ScreenShot
+17 Adding the ScreenShot(06/2021)
+
