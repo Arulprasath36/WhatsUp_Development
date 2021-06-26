@@ -34,6 +34,8 @@ Author: Arulprasath
 
 14.Adding new feature in status Hiding
 
+
+
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
 16.Thanks Arul sir
@@ -43,3 +45,5 @@ Thank you so much sir.. your explanations and video are amazing
 11. Block users in status
 
 16 Adding Payment options [09-6-2021]
+
+17. Adding the group chat feature
