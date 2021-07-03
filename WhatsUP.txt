@@ -30,18 +30,18 @@ Author: Arulprasath
 
 14. Create new feature to stop others to add user into the group without permission.
 
-15 Adding group video call feature
+15. Adding group video call feature
 
-16 Adding new feature in status Hiding
+16. Adding new feature in status Hiding
 
-17 Adding Dark Mode Feature so that user can do the late night chats easily  
+17. Adding Dark Mode Feature so that user can do the late night chats easily  
 
-18 Thanks Arul sir
+18. Thanks Arul sir
 
-19 Thank you so much sir.. your explanations and video are amazing
+19. Thank you so much sir.. your explanations and video are amazing
 
-20 Block users in status
+20. Block users in status
 
-21 Adding Payment options [09-Jul-2021]
+21. Adding Payment options [09-Jul-2021]
 
-22 Adding flight games [03-Jul-2021]
+22. Adding flight games [03-Jul-2021]
