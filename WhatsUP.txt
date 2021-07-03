@@ -21,25 +21,27 @@ Author: Arulprasath
 9. Adding options to create groups upto 200 users.
 
 10. Adding new feature
+
 11. Connecting people
 
+12. Block the spam users.
 
-11. Block the spam users.
+13. Last seen disable
 
-12. Last seen disable
+14. Create new feature to stop others to add user into the group without permission.
 
-12. Create new feature to stop others to add user into the group without permission.
+15. Adding group video call feature
 
-13.Adding group video call feature
+16. Adding new feature in status Hiding
 
-14.Adding new feature in status Hiding
+17. Adding Dark Mode Feature so that user can do the late night chats easily  
 
-15. Adding Dark Mode Feature so that user can do the late night chats easily  
+18. Thanks Arul sir
 
-16.Thanks Arul sir
+19. Thank you so much sir.. your explanations and video are amazing
 
-Thank you so much sir.. your explanations and video are amazing
+20. Block users in status
 
-11. Block users in status
+21. Adding Payment options [09-Jul-2021]
 
-16 Adding Payment options [09-6-2021]
+22. Adding flight games [03-Jul-2021]
