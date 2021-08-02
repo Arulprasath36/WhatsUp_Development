@@ -23,6 +23,8 @@ Author: Arulprasath
 10. Adding new feature
 11. Connecting people
 
+12. Hiding status from all except my friend
+
 
 11. Block the spam users.
 
@@ -31,6 +33,9 @@ Author: Arulprasath
 12. Create new feature to stop others to add user into the group without permission.
 
 13.Adding group video call feature
+
+
+
 
 14.Adding new feature in status Hiding
 
