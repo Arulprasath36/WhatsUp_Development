@@ -40,6 +40,8 @@ Author: Arulprasath
 
 Thank you so much sir.. your explanations and video are amazing
 
-11. Block users in status
+17. Block users in status
 
-16 Adding Payment options [09-6-2021]
+18 Adding Payment options [09-6-2021]
+
+19. Adding profile picture
