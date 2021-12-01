@@ -37,9 +37,8 @@ Author: Arulprasath
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
 16.Thanks Arul sir
-
 Thank you so much sir.. your explanations and video are amazing
-
+17 .adding block options
 11. Block users in status
 
 16 Adding Payment options [09-6-2021]
