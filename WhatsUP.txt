@@ -34,9 +34,7 @@ Author: Arulprasath
 
 14.Adding new feature in status Hiding
 
-15.themes changing
-
-15.Themes
+20.themes changing
 
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
