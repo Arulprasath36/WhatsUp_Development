@@ -32,7 +32,7 @@ Author: Arulprasath
 
 13.Adding group video call feature
 
-14.Adding new feature in status Hiding
+14.Adding new feature in status Hiding 
 
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
@@ -43,3 +43,5 @@ Thank you so much sir.. your explanations and video are amazing
 11. Block users in status
 
 16 Adding Payment options [09-6-2021]
+
+17.Adding the new feature "QR code"
