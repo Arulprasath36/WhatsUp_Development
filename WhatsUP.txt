@@ -16,7 +16,7 @@ Author: Arulprasath
 
 7. Adding the video call feature
 
-8. Adding status so that user can play train games and video games12345
+8. Adding status so that user can play train games and video games
 
 9. Adding options to create groups upto 200 users.
 
@@ -33,6 +33,8 @@ Author: Arulprasath
 13.Adding group video call feature
 
 14.Adding new feature in status Hiding
+
+Adding chat history backup
 
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
