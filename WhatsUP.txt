@@ -2,7 +2,7 @@ THIS IS WHATSUP CODE:
 
 Author: Arulprasath
 
-1. Profile page code
+1. Profile page codes
 
 2. Chat screen code
 
@@ -43,3 +43,5 @@ Thank you so much sir.. your explanations and video are amazing
 11. Block users in status
 
 16 Adding Payment options [09-6-2021]
+
+17. deleting image feature
