@@ -34,6 +34,7 @@ Author: Arulprasath
 
 14.Adding new feature in status Hiding
 
+
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
 16.Thanks Arul sir
@@ -47,3 +48,5 @@ Thank you so much sir.. your explanations and video are amazing
 17 sharing photos & videos with out reducing the resolution
 
 IM WATCHING THIS video in 2022 march
+
+adding new features
