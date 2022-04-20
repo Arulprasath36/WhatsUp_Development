@@ -34,6 +34,9 @@ Author: Arulprasath
 
 14.Adding new feature in status Hiding
 
+
+15.adding new feature for amount transaction in whatsapp
+
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
 16.Thanks Arul sir
