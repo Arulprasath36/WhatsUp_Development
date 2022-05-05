@@ -45,3 +45,7 @@ Thank you so much sir.. your explanations and video are amazing
 16 Adding Payment options [09-6-2021]
 
 17 sharing photos & videos with out reducing the resolution
+
+18.Create new feature of sending images more than 30 at a time to friends 
+
+19.Increase the video length to 5 mins to share at a time
