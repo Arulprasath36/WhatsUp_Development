@@ -1,9 +1,9 @@
 THIS IS WHATSUP CODE:
 train status
 Author: Arulprasath
-
+add share location feature
 1. Profile page code
-
+add payment
 2. Chat screen code
 
 3. Last seen code 
@@ -33,6 +33,8 @@ Author: Arulprasath
 13.Adding group video call feature
 
 14.Adding new feature in status Hiding
+
+15.add payment and share your location
 
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
