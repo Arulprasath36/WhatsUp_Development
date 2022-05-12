@@ -1,9 +1,9 @@
 THIS IS WHATSUP CODE:
 train status
 Author: Arulprasath
-
+add share location feature
 1. Profile page code
-
+add payment
 2. Chat screen code
 
 3. Last seen code 
