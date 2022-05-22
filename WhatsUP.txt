@@ -47,3 +47,5 @@ Thank you so much sir.. your explanations and video are amazing
 17 sharing photos & videos with out reducing the resolution
 
 18 Status visibility access for favourite users
+
+19. Add meeting option to schedule and notification feature for that as like alarm.
