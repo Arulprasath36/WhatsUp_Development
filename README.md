@@ -16,7 +16,7 @@ public class Main
 		}
 		}
 	System.out.println();
-	int b[][]={{9,5},{8,3}},k,l;
+	int b[][]={{9,5},{8,3}};
 		for(i=0;i<2;i++)
 		{
 		   	System.out.println();
