@@ -1,5 +1,4 @@
-# javaprogram
-
+*******************************JAVA PROGRAM FOR ADDING TWO ARRAY**********************************************************************
 
 public class Main
 {
@@ -44,3 +43,52 @@ public class Main
 }
 }
 }
+**************************************REVERSE AND PRINT EVEN INDEXED VALUE*********************************************************************
+
+#include <stdio.h>
+
+int main()
+{
+    int a[]={2,98,65,78,43,76},i,j,tem;
+    for(i=0,j=5;i<=2,j>=3;i++,j--)
+    { 
+    tem=a[i];
+    a[i]=a[j];
+    a[j]=tem;
+}
+for(i=0;i<=5;i++)
+{
+printf("%d ", a[i]);
+
+}
+printf("\n");
+for(i=0;i<=5;i++)
+{
+if(i%2==0)
+printf("%d\n",a[i]);
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
