@@ -34,6 +34,10 @@ Author: Arulprasath
 
 14.Adding new feature in status Hiding
 
+15. Profile Picture not visible to few users even though their number is saved
+
+16. Like Teams meeting, can bring Whatsup meeting feature with the message being sent to everyone.
+
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
 16.Thanks Arul sir
