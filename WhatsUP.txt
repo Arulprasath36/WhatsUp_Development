@@ -30,13 +30,13 @@ Author: Arulprasath
 
 12. Create new feature to stop others to add user into the group without permission.
 
-13.Adding group video call feature
-
+13.Adding group video call 
 14.Adding new feature in status Hiding
 
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
+16. Status Saver
 
-16.Thanks Arul sir
+17.Thanks Arul sir
 
 Thank you so much sir.. your explanations and video are amazing
 
