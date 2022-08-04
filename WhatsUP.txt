@@ -21,10 +21,8 @@ Author: Arulprasath
 9. Adding options to create groups upto 200 users.
 
 10. Adding new feature
-11. Connecting people
 
-
-11. Block the spam users.
+11. Connecting people & Block the spam users.
 
 12. Last seen disable
 
@@ -37,11 +35,13 @@ Author: Arulprasath
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
 16.Thanks Arul sir
-
 Thank you so much sir.. your explanations and video are amazing
 
-11. Block users in status
+11.2 Block users in status
 
-16 Adding Payment options [09-6-2021]
+16.2 Adding Payment options [09-6-2021]
 
-17 sharing photos & videos with out reducing the resolution
+17. sharing photos & videos with out reducing the resolution
+
+18. Adding disappearing message feature & status la flight vidra feature
+
