@@ -18,7 +18,7 @@ Author: Arulprasath
 
 8. Adding status so that user can play train games and video games
 
-9. Adding options to create groups upto 200 users.
+9. Adding options to create groups upto 350 users.
 
 10. Adding new feature
 11. Connecting people
