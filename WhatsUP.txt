@@ -45,3 +45,9 @@ Thank you so much sir.. your explanations and video are amazing
 16 Adding Payment options [09-6-2021]
 
 17 sharing photos & videos with out reducing the resolution
+
+18 Adding feature user can't sent forward message more than 5 members at a time.
+
+19.Enabling message Automatic disable with in particular time once receiver seen the message.
+
+*Thank you very much sir..your way of teaching is excellent..I seen entire Jira video list and now i see the full list of videos of github..
