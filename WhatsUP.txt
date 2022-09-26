@@ -51,3 +51,5 @@ Sending the media with viewing only once option
 Hiding the story
 
 Changing the background colour
+
+Night mode/Day mode
