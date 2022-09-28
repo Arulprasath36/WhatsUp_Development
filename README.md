@@ -1,2 +1,2 @@
 # WhatsUp_Development
-This repository is tcreated for learning about github
+This repository is created for learning about github
