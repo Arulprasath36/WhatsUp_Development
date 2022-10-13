@@ -18,4 +18,6 @@ Author: Arulprasath
 
 8. Attachment of PDF and document files.
 
+9. One time visible image and video
 
+10.Not allowed to take screen shot and Screen record 
