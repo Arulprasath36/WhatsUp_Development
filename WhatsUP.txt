@@ -34,6 +34,8 @@ Author: Arulprasath
 
 14.Adding new feature in status Hiding
 
+15. user can see the deleted message by restoring it once 
+
 user can see the deleted message by restring it only once 
 
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
