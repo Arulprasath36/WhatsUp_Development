@@ -2,10 +2,6 @@ THIS IS WHATSUP CODE:
 train status
 Author: Arulprasath
 
-1. Profile page code
-
-2. Chat screen code
-
 3. Last seen code 
 
 4. Attachments (Image, Audio, video, Documents) code
@@ -16,7 +12,7 @@ Author: Arulprasath
 
 7. Adding the video call feature
 
-8. Adding status so that user can play train games and video games
+8 hello application
 
 9. Adding options to create groups upto 200 users.
 
