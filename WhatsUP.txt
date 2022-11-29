@@ -34,6 +34,11 @@ Author: Arulprasath
 
 14.Adding new feature in status Hiding
 
+
+Adding group audio call 
+
+Adding chat history backup
+
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
 16.Thanks Arul sir
