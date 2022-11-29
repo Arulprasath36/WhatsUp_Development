@@ -8,7 +8,7 @@ Author: Arulprasath
 
 3. Last seen code 
 
-4. Attachments (Image, Audio, video, Documents) code
+4. Attachments ( Image, Audio, video, Documents) code
 
 5. Hiding the last seen
 
