@@ -7,7 +7,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class PageObjectModel2 {
 	
-	@FindBy(id="login")
+	//@FindBy(id="login")
 	public static WebElement login;
 	
 	

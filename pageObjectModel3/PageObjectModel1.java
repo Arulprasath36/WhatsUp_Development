@@ -6,9 +6,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class PageObjectModel1 {
-	@FindBy(id="username")
+	//@FindBy(id="username")
 	public static WebElement username;
-	@FindBy(id="password")
+	//@FindBy(id="password")
 	public static WebElement password;
 	
 	
