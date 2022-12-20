@@ -11,6 +11,8 @@ public class PageObjectModel1 {
 	//@FindBy(id="password")
 	public static WebElement password;
 	
+	public static WebElement login;
+	
 	
 	
 	
