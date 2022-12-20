@@ -21,3 +21,6 @@ public class Log4jTest {
 
 	}
 }
+
+// you should add the xml folder to the project
+
