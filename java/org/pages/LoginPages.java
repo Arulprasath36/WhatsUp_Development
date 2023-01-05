@@ -5,11 +5,20 @@ import javax.swing.text.Element;
 import org.BasePages.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.seleniumBase.Locators;
 
 public class LoginPages extends BasePage {
 
-	
+//	public LoginPages(RemoteWebDriver driver) {
+//		this.driver=driver;
+		
+//	}
+	public boolean usernameLable()
+	{
+		WebElement element = element(Locators.xpath, "(//td[@align='right'])[1]");
+	return	element.isEnabled();
+	}
 
 }
 

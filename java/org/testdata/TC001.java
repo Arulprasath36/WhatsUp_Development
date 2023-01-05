@@ -19,10 +19,16 @@ public class TC001 extends BasePage {
 		
 	@Test(dataProvider="data")
 	public void testCases(String[] data) {
-		WebElement element = element(Locators.xpath, "(//td[@align='right'])[1]");
-		boolean enabled = element.isEnabled();
-		Assert.assertEquals(enabled, true);
-		System.out.println("finished");
+		LoginPages lp=new LoginPages();
+		boolean usernameLable = lp.usernameLable();
+		Assert.assertEquals(usernameLable, true);
+		
+		
+		
+		
+		
+		
+		
 	}
 }
 
@@ -54,7 +60,10 @@ public class TC001 extends BasePage {
 
 
 
-
+//WebElement element = element(Locators.xpath, "(//td[@align='right'])[1]");
+//boolean enabled = element.isEnabled();
+//Assert.assertEquals(enabled, true);
+//System.out.println("finished");
 //
 //String title = getTitle();
 //System.out.println(title);

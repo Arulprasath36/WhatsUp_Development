@@ -24,7 +24,7 @@ public class SeleniumBase implements SeleniumApi {
 	long timeOuts = 10; //30
 	long maxWaitTime =10;
 
-    RemoteWebDriver driver = null;
+   public static RemoteWebDriver driver = null;
 	WebDriverWait wait = null;
 
 	public void setUp(String url) {

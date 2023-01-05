@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 
 public class BasePage extends SeleniumBase {
-	public static RemoteWebDriver driver=null;
+	public  RemoteWebDriver driver=null;
 	String url="http://adactinhotelapp.com/";
 	 public String fileName="";
 	
