@@ -6,13 +6,15 @@ import org.dataProvider.Dataprovider;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.seleniumBase.SeleniumBase;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 
 public class BasePage extends SeleniumBase {
 	public  RemoteWebDriver driver=null;
-	String url="http://adactinhotelapp.com/";
+	public String url="";
 	 public String fileName="";
 	
 	 @DataProvider(name="data")
@@ -22,12 +24,12 @@ public class BasePage extends SeleniumBase {
 		return xlData;
 	}
 	
-	@BeforeMethod
+	@BeforeClass
 	public void startApp() {
 		setUp(url);
 		
 	}
-	@AfterMethod
+	@AfterClass
 	public void driverQuit() {
 		quit();
 	}

@@ -15,21 +15,74 @@ public class TC001 extends BasePage {
 	@BeforeTest
 	public void setData() {
 		fileName = "TC001";
-	}
+		url="http://adactinhotelapp.com/";
 		
-	@Test(dataProvider="data")
-	public void testCases(String[] data) {
+	}
+	public void lable() {
 		LoginPages lp=new LoginPages();
 		boolean usernameLable = lp.usernameLable();
 		Assert.assertEquals(usernameLable, true);
 		
+		boolean passwordLable = lp.passwordLable();
+		Assert.assertTrue(passwordLable);
 		
-		
-		
-		
-		
+		boolean loginLable = lp.loginLable();
+		Assert.assertTrue(loginLable);
 		
 	}
+		
+	@Test(dataProvider="data",priority=0)
+	public void testCases(String[] data) {
+		
+		lable();
+		
+		type(element(Locators.id, "username"), data[0]);
+		
+		type(element(Locators.id, "password"),data[1]);
+		
+		click(element(Locators.id,"login"));
+		
+			
+	}
+	
+	@Test(priority=1)
+	public void testCase2() {
+		
+		selectIndex(element(Locators.id, "location"), 1);
+		
+	}
+	@Test(priority=2)
+	public void testCase3() {
+		
+	selectIndex(element(Locators.id, "hotels"), 1);
+	}
+
+	@Test(priority=3)
+	public void testCase4() {
+		
+	selectIndex(element(Locators.id, "room_type"), 1);}
+
+	@Test(priority=4)
+	public void testCase5() {
+		
+	
+	selectIndex(element(Locators.xpath, "//select[@id='room_nos']"), 1);}
+
+	@Test(priority=5)
+	public void testCase6() {
+		
+	selectIndex(element(Locators.id, "adult_room"), 1);}
+
+	@Test(priority=6)
+	public void testCase7() {
+		
+	selectIndex(element(Locators.id, "child_room"), 1);}
+	
+
+	
+	
+	
+	
 }
 
 
@@ -47,17 +100,19 @@ public class TC001 extends BasePage {
 
 
 
+//WebElement element = element(Locators.id, "username");
+//type(element(Locators.id, "username"), data[0]);
 
+//WebElement element2 = element(Locators.id, "password");
+//type(element(Locators.id, "password"),data[1]);
 
+//WebElement element3 = element(Locators.id, "login");
+//click(element(Locators.id,"login"));
 
-
-
-
-
-
-
-
-
+//lp.enterUserName(data[0]);
+//lp.enterPassword(data[1]);
+//lp.enterLogin();
+//
 
 
 //WebElement element = element(Locators.xpath, "(//td[@align='right'])[1]");
