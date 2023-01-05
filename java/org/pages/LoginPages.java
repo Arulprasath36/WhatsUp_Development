@@ -1,63 +1,92 @@
 package org.pages;
 
+import javax.swing.text.Element;
+
+import org.BasePages.BasePage;
 import org.openqa.selenium.By;
-import org.openqa.selenium.remote.RemoteWebDriver;
+import org.openqa.selenium.WebElement;
+import org.seleniumBase.Locators;
 
-import seleniumBase.BaseClass;
+public class LoginPages extends BasePage {
 
-public class LoginPages extends BaseClass{
-	//RemoteWebDriver driver;
-
-	// Lobel validation
-	public boolean getUserNameLabel() {
-		return driver.findElement(By.xpath("(//table[@class='login']//td)[2]")).isDisplayed();
-
-	}
-
-	public boolean getPassWordLabel() {
-		return driver.findElement(By.xpath("//table[@class='login']/tbody[1]/tr[3]/td[1]")).isDisplayed();
-	}
-
-	// Action
-	/**
-	 * @description- get the data form user and type on the user name field
-	 * @param username-pass
-	 *            the user to be login
-	 * @return 
-	 */
-
-	public LoginPages enterUserName(String username) {
-		driver.findElement(By.id("username")).sendKeys(username);
-		return this;
-	}
-
-	public LoginPages enterPassword(String password) {
-		driver.findElement(By.id("password")).sendKeys(password);
-		return this;
-	}
-
-	public BookingDetails clickLoing() {
-		driver.findElement(By.id("login")).click();
-		return new BookingDetails();
-
-	}
-	public ForgetPassword forgetPassword() {
-		driver.findElement(By.linkText("Forgot Password?")).click();
-		return new ForgetPassword();
-	}
-	
-	
-		
 	
 
-	public void selectdropDown(String lang) {
-		// locator
-		// new Select(locator).selectByVisibleText(lang);
-	}
-	public void login(String username,String password) {
-		enterUserName(username);
-		enterPassword(password);
-		clickLoing();
-		
-	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//public static WebElement clickLogin() {
+	//return driver.findElement(By.id("login"));
+//public static void getUserLable(String string, String string2) {
+//element(string,string2);
+////return driver.findElement(By.xpath("(//td[@align='right'])[1]")).isEnabled();
+//}
+//
+//public static boolean getPasswordLable() {
+//return driver.findElement(By.xpath("(//td[@align='right'])[2]")).isEnabled();
+//}
+//
+//public static boolean getLoginLable() {
+//return driver.findElement(By.xpath("//input[@type='Submit']")).isEnabled();
+//}
+//
+
+//
+//public static void enterUserName(String name) {
+//// TODO Auto-generated method stub
+//driver.findElement(By.id("username")).sendKeys(name);
+//}
+//
+//public static void enterPassword(String pass) {
+//driver.findElement(By.id("password")).sendKeys(pass);
+//}
+//
+//public static void loginClick() {
+//driver.findElement(By.id("login")).click();
+//}
+
+// public static void LoginTestCase(String name,String pass) {
+// enterUserName(name);
+// enterPassword(pass);
+// loginClick();
+// }
+//public static void LoginTestCase(String names, String passs) {
+//// TODO Auto-generated method stub
+//enterUserName(names);
+//enterPassword(passs);
+//loginClick();
+//}
