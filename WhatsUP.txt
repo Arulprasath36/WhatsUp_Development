@@ -32,7 +32,9 @@ Author: Arulprasath
 
 13.Adding group video call feature
 
-14.Adding new feature in status Hiding
+14.Adding new feature in status Hide
+
+15.
 
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
@@ -45,3 +47,4 @@ Thank you so much sir.. your explanations and video are amazing
 16 Adding Payment options [09-6-2021]
 
 17 sharing photos & videos with out reducing the resolution
+18. automatically reduce video quality depends upon network strength......
