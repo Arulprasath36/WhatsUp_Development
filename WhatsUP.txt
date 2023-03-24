@@ -2,7 +2,7 @@ THIS IS WHATSUP CODE:
 train status
 Author: Arulprasath
 
-#sadded features
+#added features
 1. Profile page code
 
 2. Chat screen code
