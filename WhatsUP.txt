@@ -47,3 +47,7 @@ Thank you so much sir.. your explanations and video are amazing
 17 sharing photos & videos with out reducing the resolution
 
 18 Hightlight the DP Picture outer circle when update the user status
+
+19 Create call link
+
+20 Select contact button will change and shows Rectangle button and shows send message text
