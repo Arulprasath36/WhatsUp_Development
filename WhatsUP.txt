@@ -2,46 +2,46 @@ THIS IS WHATSUP CODE:
 train status
 Author: Arulprasath
 
-1. Profile page code
+01.Profile page code
 
-2. Chat screen code
+02.Chat screen code
 
-3. Last seen code 
+03.Last seen code 
 
-4. Attachments (Image, Audio, video, Documents) code
+04.Attachments (Image, Audio, video, Documents) code
 
-5. Hiding the last seen
+05.Hiding the last seen
 
-6. Adding the audio call feature
+06.Adding the audio call feature
 
-7. Adding the video call feature
+07.Adding the video call feature
 
-8. Adding status so that user can play train games and video games
+08.Adding status so that user can play train games and video games
 
-9. Adding options to create groups upto 200 users.
+09.Adding options to create groups upto 200 users.
 
-10. Adding new feature
-11. Connecting people
+10.Adding new feature
 
+11.Connecting people
 
-11. Block the spam users.
+12.Block the spam users.
 
-12. Last seen disable
+13.Last seen disable
 
-12. Create new feature to stop others to add user into the group without permission.
+14.Create new feature to stop others to add user into the group without permission.
 
-13.Adding group video call feature
+15.Adding group video call feature
 
-14.Adding new feature in status Hiding
+16.Adding new feature in status Hiding
 
-15. Adding Dark Mode Feature so that user can do the late night chats easily  
+17.Adding Dark Mode Feature so that user can do the late night chats easily  
 
-16.Thanks Arul sir
+18.Thanks Arul sir
 
-Thank you so much sir.. your explanations and video are amazing
+///Thank you so much sir.. your explanations and video are amazing, and wonderful teacher.
 
-11. Block users in status
+19.Block users in status
 
-16 Adding Payment options [09-6-2021]
+20.Adding Payment options [09-6-2021]
 
-17 sharing photos & videos with out reducing the resolution
+21.Sharing photos & videos with out reducing the resolution
