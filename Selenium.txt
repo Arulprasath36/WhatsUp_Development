@@ -1,0 +1,22 @@
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class s2 {
+
+	public static void main(String[] args) {
+		
+
+	System.setProperty("webdriver.gecko.driver", "C:\\geckodriver-v0.31.0-win64 (1)\\geckodriver.exe");
+	WebDriver driver= new FirefoxDriver();
+	driver.manage.window.maximize();
+	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+	driver.get("https://www.google.co.in/");
+	driver.findElement(By.name("q")).sendKeys("Fire"+Keys.ENTER);
+	driver.navigate().back();
+	driver.close();
+	}
+
+}
