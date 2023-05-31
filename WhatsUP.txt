@@ -46,4 +46,4 @@ Thank you so much sir.. your explanations and video are amazing
 
 17. Group Video Call feature
 
-18. Jenkins Push Check
+18. Jenkins Push Commit Check
