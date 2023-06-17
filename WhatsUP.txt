@@ -1,5 +1,4 @@
-THIS IS WHATSUP CODE:
-train status
+
 Author: Arulprasath
 
 1. Profile page code
