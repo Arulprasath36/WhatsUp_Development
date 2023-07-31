@@ -6,7 +6,7 @@ Author: Arulprasath
 
 2. Chat screen code
 
-3. Last seen code 
+3. First seen code
 
 4. Attachments (Image, Audio, video, Documents) code
 
