@@ -4,7 +4,7 @@ Author: Arulprasath
 
 1. Profile page code
 
-2. Chat screen code
+2. Chat screen 
 
 3. Last seen code 
 
@@ -45,3 +45,5 @@ Thank you so much sir.. your explanations and video are amazing
 16 Adding Payment options [09-6-2021]
 
 17 sharing photos & videos with out reducing the resolution
+
+18.Adding status is only 30sec is running time
