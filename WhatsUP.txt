@@ -18,9 +18,3 @@ Author: Arulprasath
 
 8. Adding status so that user can play train games and video games (movies)
 
-
-11. Block users in status
-
-16 Adding Payment options [09-6-2021]
-
-17 sharing photos & videos with out reducing the resolution
