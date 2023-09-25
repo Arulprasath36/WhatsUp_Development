@@ -28,7 +28,9 @@ Author: Arulprasath
 
 12. Last seen disable
 
-12. Create new feature to stop others to add user into the group without permission.
+13. Create new feature to stop others to add user into the group without permission.
+
+14.Adding the video message feature.
 
 13.Adding group video call feature
 
