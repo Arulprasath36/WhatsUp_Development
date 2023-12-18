@@ -1,5 +1,5 @@
 THIS IS WHATSUP CODE:
-
+train status
 Author: Arulprasath
 
 1. Profile page code
@@ -16,10 +16,9 @@ Author: Arulprasath
 
 7. Adding the video call feature
 
-8. Adding status so that user can play train games.
+8. Adding status so that user can play train games and video games
 
 9. Adding options to create groups upto 200 users.
 
 10. Adding new feature
 11. Connecting people
-
