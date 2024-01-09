@@ -8,7 +8,7 @@ Author: Arulprasath
 
 3. Last seen code 
 
-4. Attachments (Image, Audio, video, Documents) code
+4. Attachments (Image, Audio, Video, Documents) code
 
 5. Hiding the last seen
 
@@ -16,9 +16,9 @@ Author: Arulprasath
 
 7. Adding the video call feature
 
-8. Adding status so that user can play train games and video games
+8. Adding status so that users can play train games and video games
 
-9. Adding options to create groups upto 200 users.
+9. Adding options to create groups up to 200 users.
 
 10. Adding new feature
 11. Connecting people
@@ -28,15 +28,15 @@ Author: Arulprasath
 
 12. Last seen disable
 
-12. Create new feature to stop others to add user into the group without permission.
+12. Create a new feature to stop others from adding users into the group without permission.
 
-13.Adding group video call feature
+13. Adding a group video call feature
 
-14.Adding new feature in status Hiding
+14. Adding new feature in status Hiding
 
-15. Adding Dark Mode Feature so that user can do the late night chats easily  
+15. Adding Dark Mode Feature so that users can do the late night chats easily  
 
-16.Thanks Arul sir
+16. Thanks Arul sir
 
 Thank you so much sir.. your explanations and video are amazing
 
@@ -44,4 +44,4 @@ Thank you so much sir.. your explanations and video are amazing
 
 16 Adding Payment options [09-6-2021]
 
-17 sharing photos & videos with out reducing the resolution
+17 sharing photos & videos without reducing the resolution
