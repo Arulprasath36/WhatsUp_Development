@@ -18,6 +18,8 @@ Author: Arulprasath
 
 8. Adding status so that user can play train games and video games
 
+
+
 9. Adding options to create groups upto 200 users.
 
 10. Adding new feature
@@ -45,3 +47,5 @@ Thank you so much sir.. your explanations and video are amazing
 16 Adding Payment options [09-6-2021]
 
 17 sharing photos & videos with out reducing the resolution
+
+18 Adding feature to HD videos upto 200MB
