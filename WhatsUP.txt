@@ -35,6 +35,7 @@ Author: Arulprasath
 14.Adding new feature in status Hiding
 
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
+16.Adding feature game
 
 16.Thanks Arul sir
 
