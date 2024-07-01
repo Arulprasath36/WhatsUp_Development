@@ -23,6 +23,9 @@ Author: Arulprasath
 10. Adding new feature
 11. Connecting people
 
+11. Adding options to disable blue tick [Jul 1 2024]
+
+12. Enable blue tick.
 
 11. Block the spam users.
 
