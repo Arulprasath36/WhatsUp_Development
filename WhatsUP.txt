@@ -31,6 +31,7 @@ Author: Arulprasath
 12. Create new feature to stop others to add user into the group without permission.
 
 13.Adding group video call feature
+Adding Status feature
 
 14.Adding new feature in status Hiding
 
