@@ -1,5 +1,5 @@
 THIS IS WHATSUP CODE:
-train status
+Have to adding status with train games.
 Author: Arulprasath
 
 1. Profile page code
