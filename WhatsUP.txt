@@ -36,7 +36,7 @@ Author: Arulprasath
 
 15. Adding Dark Mode Feature so that user can do the late night chats easily  
 
-16.Thanks Arul sir
+16.merge conflict test
 
 Thank you so much sir.. your explanations and video are amazing
 
@@ -45,3 +45,11 @@ Thank you so much sir.. your explanations and video are amazing
 16 Adding Payment options [09-6-2021]
 
 17 sharing photos & videos with out reducing the resolution
+
+18.fork learned successfully
+
+19.once again fork learned successfully
+
+20.What app train status so they can play train
+
+21.sss
