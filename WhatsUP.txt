@@ -20,6 +20,8 @@ Author: Arulprasath
 
 9. Adding options to create groups upto 200 users.
 
+10. AI is taking over all the dept, Do you think QA will replaced by AI
+
 10. Adding new feature
 11. Connecting people
 
